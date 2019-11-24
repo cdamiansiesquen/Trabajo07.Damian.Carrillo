@@ -1,2 +1,4 @@
 # Trabajo07.Damian.Carrillo
 Trabajo07
+INTEGRANTES:
+DAMIAN SIESQUEN CHRISTIAN ALEXIS
